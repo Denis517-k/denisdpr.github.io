@@ -16,11 +16,12 @@ author: Denis Pastory Rubanga
 navbar-links:
   EXPERIENCE: "EXPERIENCE"
   RESUME: "denisDPR_resume.pdf"
-  VIDEO: "VIDEO"
+  VIDEO:
+    - Technological transfer-S.S.Africa: "https://www.youtube.com/watch?v=10oGkaiOSvg"
+    - ICLR - AfNLP 202O: "https://slideslive.com/38926608/a-computer-vision-tomato-pest-assessment-and-prediction-tool?ref=account-53024-history"
   About Me: "aboutme"
   Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
+    - Dataset: "https://zenodo.org/record/4305416#.YI_w_H0zb0s"
   #Author's home: "https://deanattali.com"
 
 # --- Logo --- #
