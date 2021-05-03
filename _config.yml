@@ -14,12 +14,12 @@ author: Denis Pastory Rubanga
 # --- List of links in the navigation bar --- #
 
 navbar-links:
+  About Me: "aboutme"
   EXPERIENCE: "EXPERIENCE"
   RESUME: "denisDPR_resume.pdf"
   VIDEO:
-    - Technological transfer-S.S.Africa: "https://www.youtube.com/watch?v=10oGkaiOSvg"
+    - Tech Transfer Africa - pest: "https://www.youtube.com/watch?v=10oGkaiOSvg"
     - ICLR - AfNLP 202O: "https://slideslive.com/38926608/a-computer-vision-tomato-pest-assessment-and-prediction-tool?ref=account-53024-history"
-  About Me: "aboutme"
   Resources:
     - Dataset: "https://zenodo.org/record/4305416#.YI_w_H0zb0s"
   #Author's home: "https://deanattali.com"
@@ -75,7 +75,7 @@ rss-description: This website is a virtual proof that I'm awesome
 
 # Select which social network share links to show in posts
 share-links-active:
-  twitter: true
+  twitter: false
   facebook: true
   linkedin: true
   vk: false
