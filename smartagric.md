@@ -15,12 +15,12 @@
 </script>
         <style>
           html {
-            width: 100%;
-            height: 100%;
+            width: 50%;
+            height: 50%;
           }
           body {
-            width: 90%;
-            height: 100%;
+            width: 50%;
+            height: 40%;
             margin: auto;
           }
         </style>
@@ -88,12 +88,12 @@
 </script>
         <style>
           html {
-            width: 100%;
-            height: 100%;
+            width: 50%;
+            height: 50%;
           }
           body {
-            width: 90%;
-            height: 100%;
+            width: 50%;
+            height: 50%;
             margin: auto;
           }
         </style>
