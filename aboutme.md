@@ -1,16 +1,11 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+<!--- subtitle: Why you'd want to go on a date with me --->
 ---
 
-My name is Inigo Montoya. I have the following qualities:
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+I'm an Applied Data scientist, graduated from Tokyo University of Agriculture with B.S./M.S. Agribusiness Management where I majored in Information Management,then did a Ph.D. Agricultural Engineering with main focus Integration of ICT and AI to enhance tomato production in low-resourced communities targeting Sub-Sahara Africa and Japan. I am passionated about seeing change in struggling communities using agro-informatics, deep learning, applied data science, GIS and remote sensing. 
+I have also been involved in consultant works for in wide range of data-driven collaborative teams and projects locally and international. 
+I am ex-rugby player and part-time runner. 
 
-What else do you need?
-
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
