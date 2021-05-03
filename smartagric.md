@@ -1,7 +1,5 @@
 {{< rawhtml >}}
-  
-<!DOCTYPE html>
-<html lang="en">
+  <html lang="en">
     <head>
         <meta charset="utf-8">
         <title>CGDD Vs Harvest Yield Regression of Greenhouse Block A</title>
@@ -14,12 +12,12 @@
 </script>
         <style>
           html {
-            width: 100%;
-            height: 100%;
+            width: 80%;
+            height: 80%;
           }
           body {
-            width: 90%;
-            height: 100%;
+            width: 70%;
+            height: 70%;
             margin: auto;
           }
         </style>
