@@ -15,7 +15,8 @@ author: Denis Pastory Rubanga
 
 navbar-links:
   About Me: "aboutme"
-  EXPERIENCE: "EXPERIENCE"
+  EXPERIENCE: 
+  - Smart Agric: "smartagric"
   RESUME: "denisDPR_resume.pdf"
   VIDEO:
     - Tech Transfer Africa - pest: "https://www.youtube.com/watch?v=10oGkaiOSvg"
