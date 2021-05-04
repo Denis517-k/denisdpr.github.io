@@ -16,7 +16,7 @@ author: Denis Pastory Rubanga
 navbar-links:
   About Me: "aboutme"
   EXPERIENCE: 
-  - Smart Agric: "smartagric"
+  # --- Smart Agric: "smartagric" ---#
   - Research: "work"
   RESUME: "denisDPR_resume.pdf"
   VIDEO:
