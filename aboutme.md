@@ -5,9 +5,9 @@ title: About me
 ---
 
 
-<!--- <p><img src="https://denisdpr.github.io/assets/img/sidepic.PNG"/><p> --->
+<p><img src="https://denisdpr.github.io/assets/img/sidepic.PNG"/><p>
  
-<p><img src="https://denisdpr.github.io/assets/img/sidepic.PNG" width=50% height=50% /><p>
+<!--- <p><img src="https://denisdpr.github.io/assets/img/sidepic.PNG" width=50% height=50% /><p> --->
 
 
  I'm an Applied Data scientist, graduated from Tokyo University of Agriculture with B.S./M.S. Agribusiness Management where I majored in Information Management,then did a Ph.D. Agricultural Engineering with main focus Integration of ICT and AI to enhance tomato production in low-resourced communities targeting Sub-Sahara Africa and Japan. I am passionated about seeing change in struggling communities using agro-informatics, deep learning, applied data science, GIS and remote sensing. 
