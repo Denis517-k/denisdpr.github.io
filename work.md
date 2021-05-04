@@ -8,7 +8,12 @@ This work is based on using agro-informatics sensor data analytics techniques,
 deep learning and machine learning models, applied data science, GIS and remote sensing techniques and tools. 
 See the summary of [research here](https://denisdpr.github.io/engsummary.md) and [Japanese Version](DenisDPR/denisdpr.github.io/japsummary.md)
 
-<p align="center"><img src="https://denisdpr.github.io/assets/img/tomatopest.png"/></p>
+<!--<p align="center"><img src="https://denisdpr.github.io/assets/img/tomatopest.png"/></p> -->
+
+<figure>
+  <img src="https://denisdpr.github.io/assets/img/tomatopest.png"/>
+  <figcaption> Tomato pest *T. Absoluta* a threat to yield. Developed Deep learning solutions</figcaption>
+</figure>
 
 
 ## Current work
