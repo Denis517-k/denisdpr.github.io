@@ -19,6 +19,7 @@ navbar-links:
   # --- Smart Agric: "smartagric" ---#
   - Research: "work"
   RESUME: "denisDPR_resume.pdf"
+  PUBLICATIONS: "publications"
   VIDEO:
     - Tech Transfer Africa - pest: "https://www.youtube.com/watch?v=10oGkaiOSvg"
     - ICLR - AfNLP 202O: "https://slideslive.com/38926608/a-computer-vision-tomato-pest-assessment-and-prediction-tool?ref=account-53024-history"
