@@ -1,4 +1,4 @@
-## <strong>ABSTRACT</strong>
+## <strong>Research Summary</strong>
 This research thesis is structured into six Chapters including the general introduction
 as Chapter 1 and the general conclusion as Chapter 6 to address the summary of all chapters.
 
@@ -19,11 +19,12 @@ introduction of computer vision (CV) based approach to tackle *T. absoluta*. Wit
 field experiments we carried out, we showed a high correlation of decreased marketable
 tomato due to *T.absoluta* damages. Therefore to solve this problem, a need for early
 detection was required which was the basis for Chapter 4 and 5.
+
 In Chapter 4, we detailed the need for early pest detection for effective management
 option at early stages of tomato production to avoid economic losses. The main goal
 was to develop computer vision based tomato pest early identification and quantification
 tools that could be used to strengthen phytosanitary capacity and systems for effective
-management option ofT.absoluta. In this Chapter, the specific research’s objectives
+management option of *T.absoluta*. In this Chapter, the specific research’s objectives
 was: (1) to develop a *T.absoluta* early identification Convolutional Neural Network
 (CNN) model under commonly practiced agriculture practices. (2) to develop early
 detection and quantification CNN models for tomatoes infested by *T.absoluta* damage
