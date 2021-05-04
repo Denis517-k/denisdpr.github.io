@@ -18,7 +18,7 @@ title: "Publications"
 
 8. **Rubanga, D. P.**, Loyani, L. K., Richard, M., & Shimada, S. (2020). A Deep Learning Approach for Determining Effects of Tuta Absoluta in Tomato Plants. arXiv preprint arXiv:2004.04023.
 
-### Conferences
+### Conferences and Workshops
 1. **Rubanga, D. P**, et al., (2020), Sensitivity Analysis of Neural Networks through Meta-Learning. JSAI - Japanese Society for Artificial Intelligence, Tokyo, Japan.
 
 2. **Rubanga, D. P**, (2020), A Computer Vision Tomato Pest Assessment and Prediction Tool. ICLR AfNLP Workshop, Addis Ababa, Ethiopia.
