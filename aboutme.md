@@ -5,7 +5,7 @@ title: About me
 ---
 
 
-<p><img src="https://denisdpr.github.io/assets/img/aboutpic.PNG"/><p>
+<p><img src="https://denisdpr.github.io/assets/img/aboutpic.PNG" width="50%"/><p>
  
 <!--- <p><img src="https://denisdpr.github.io/assets/img/sidepic.PNG" width=50% height=50% /><p> --->
 
