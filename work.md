@@ -12,7 +12,7 @@ See the summary of [research here](https://denisdpr.github.io/engsummary.md) and
 
 <figure>
   <img src="https://denisdpr.github.io/assets/img/tomatopest.png"/>
-  <figcaption> Tomato pest *T. Absoluta* a threat to yield. Developed Deep learning solutions</figcaption>
+  <figcaption> Tomato pest <em> Tuta absoluta (T.absoluta</em>) a threat to yield. Developed Deep learning solutions</figcaption>
 </figure>
 
 
