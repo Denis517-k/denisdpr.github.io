@@ -39,7 +39,7 @@ adopted on SHAP values showed that NDVI and GNDI were the indicators with the
 highest contribution to the trained model, and that NIR reflection information would be
 effective in detectiong tomato pestTutaabsolutadamage.
 
-In the final Chapter 6, we draw conclusions and recommendations based on
+In the final Chapter 6 of the work, we draw conclusions and recommendations based on
 previous Chapters that focused on the integration of ICT and artificial intelligence
 techniques to enhance tomato production based on a data driven emerging technological
 approach.
