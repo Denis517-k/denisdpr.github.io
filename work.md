@@ -2,6 +2,8 @@
 layout: page
 title: Research Expertise
 ---
+
+## AI Integration to enhance production
 As Applied Data scientist, my past doctoral research focused mainly on Integration of ICT and AI to 
 enhance tomato production in low-resourced communities. The work targeted Sub-Sahara Africa and Japan.
 This work is based on using agro-informatics sensor data analytics techniques, 
