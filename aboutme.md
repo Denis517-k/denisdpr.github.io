@@ -12,7 +12,7 @@ I am ex-rugby player and part-time runner.--->
 
 <div style="clear: both;">
   <div style="float: left; margin-right 1em;">
-    <img src="https://denisdpr.github.io/assets/img/aboutpic.PNG" alt="">
+    <img src="https://denisdpr.github.io/assets/img/aboutpic.PNG" width="45% alt="">
   </div>
   <div>
     <h2>About Me</h2>
