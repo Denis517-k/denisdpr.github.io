@@ -4,7 +4,7 @@ title: "Publications"
 
 ### JOURNAL PAPERS
 1. Taguchi Kentaro and **Rubanga, D. P**, (2020), "Sensitivity Analysis of Neural Network through Meta-Learning". In: Proceedings of the conference of *Japanese Society for Artificial Intelligence*.2020, pp. 1J4GS201–1J4GS201. doi.org/10.11517/pjsai.JSAI2020.01J4GS201
-2. **Rubanga, D. P**, Loyani,K.L,(2020), A Deep Learning Approach for Determining Effects of Tuta absoluta in Tomato Plants. *ICLR- CVPR-Workshop*
+2. **Rubanga, D. P**, Loyani, K.L, (2020), A Deep Learning Approach for Determining Effects of Tuta absoluta in Tomato Plants. *ICLR- CVPR-Workshop*
 
 3. **Rubanga, D. P**., Hatanaka, K., and Shimada, S. (2019). Development of a Simplified Smart Agriculture System for Small Scale Greenhouse Farming. *Sensors and Material Journal* doi.org/10.18494/SAM.2019.2154
 
@@ -12,7 +12,7 @@ title: "Publications"
 
 5. Lilian Mkonyi, **Rubanga, D. P**., Mgaya Richard,Never Zekeya, Shimada Sawahiko, Baraka Maiseli, Dina Machuve.(2020), A Early identification of Tuta absoluta in tomato plants using deep learning. *Scientific African*.
 
-6. Ramadhona Saville, Katsumori Hatanaka, **Rubanga, D. P**.(2020),A study on factors affecting high quality fruit tomato production in green house by utilizing low cost smart agriculture framework. *IJoCED*.
+6. Ramadhona Saville, Katsumori Hatanaka, **Rubanga, D. P**.(2020), A study on factors affecting high quality fruit tomato production in green house by utilizing low cost smart agriculture framework. *IJoCED*.
 
 7. **Denis Pastory Rubanga**, Lilian Mkonyi, Mgaya Richard, Never Zekeya, Loyani K. Loyani, Sawahiko Shimada, & Dina Machuve. (2020). A Deep Learning Dataset for Tomato Pest Leafminer TUTA ABSOLUTA (Version V1). Presented at the ICLR 2020 Workshop on Computer Vision for Agriculture (CV4A) (ICLR), Ethiopia: Zenodo. http://doi.org/10.5281/zenodo.4305416
 
@@ -25,9 +25,9 @@ title: "Publications"
 
 3. **Rubanga, D. P**, Loyani,K.L,(2020), A Deep Learning Approach for Determining Effects of Tuta absoluta in Tomato Plants. ICLR Workshop on Computer Vision for Agriculture , Addis Ababa, Ethiopia.
 
-4. Loyani, K.L., **Rubanga, D. P**(2019), Decision Support System for Farmers against Tuta absoluta Effects on Tomato Plants. NeurIPS BlackInAI Workshop, Vancouver, Canada.
+4. Loyani, K.L., **Rubanga, D. P** (2019), Decision Support System for Farmers against Tuta absoluta Effects on Tomato Plants. NeurIPS BlackInAI Workshop, Vancouver, Canada.
 
-5. Loyani, K.L., **Rubanga, D. P**(2019), Early Identification of Tuta Absoluta in tomato Plants using Deep Learning. NeurIPS BlackInAI Workshop, Vancouver, Canada.
+5. Loyani, K.L., **Rubanga, D. P** (2019), Early Identification of Tuta Absoluta in tomato Plants using Deep Learning. NeurIPS BlackInAI Workshop, Vancouver, Canada.
 
 6. **Rubanga, D. P** (2019) Emerging Technological Transfer to Tackle Invasive Pest challenges in Sub-Sahara Africa: A computer vision Approach, A Webinar Presentation Video, 24th June 2019.
 
@@ -35,7 +35,7 @@ title: "Publications"
 
 8. **Rubanga, D. P** (2019) Applied Computer Vision Application in Agriculture at IndabaX Tanzania. University of Dodoma-CIVE, Dodoma–Tanzania, on 12th April 2019.
 
-9. **Rubanga, D. P**(2019) Computer Vision Application at Nelson Mandela–African Institute of Science and Technology, Arusha-Tanzania, on 27th March 2019.
+9. **Rubanga, D. P** (2019) Computer Vision Application at Nelson Mandela–African Institute of Science and Technology, Arusha-Tanzania, on 27th March 2019.
 
 10. **Rubanga, D. P** (2018) Spatiotemporal Analysis of Small-Scale Greenhouse Microclimate Based on Smart Agriculture Systems at AGROSYM 2018, Jahorina Bosnia and Herzegovina, 5th October 2018.
 
