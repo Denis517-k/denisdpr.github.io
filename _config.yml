@@ -26,7 +26,8 @@ navbar-links:
     - Tech Transfer(Video): "https://www.youtube.com/watch?v=10oGkaiOSvg"
     - ICLR/AfNLP(Video): "https://slideslive.com/38926608/a-computer-vision-tomato-pest-assessment-and-prediction-tool?ref=account-53024-history"
     - Tuta Dataset: "https://zenodo.org/record/4305416#.YI_w_H0zb0s"
-    - CVPV-19(Poster): "denis_pastory_posterRevised.pdf" 
+    - CVPV-19(Poster): "denis_pastory_posterRevised.pdf"
+    - ArXIV-CS Visualization: "https://kiaraaidemo.shinyapps.io/kiaraDemoCloud/"
   #Author's home: "https://deanattali.com"
 
 # --- Logo --- #
