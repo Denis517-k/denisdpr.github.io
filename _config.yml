@@ -19,8 +19,7 @@ navbar-links:
   # --- Smart Agric: "smartagric" ---#
   - Research: "work"
   RESUME: "Rubanga_Denis_Pastory_cv.pdf"
-  - <a href="Rubanga_Denis_Pastory_cv.pdf" download>Download CV</a>
-
+  
   PUBLICATIONS: "publications"
   # -- VIDEO: --#
   Resources:
