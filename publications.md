@@ -10,7 +10,7 @@ title: "Publications"
 
 4. **Rubanga, D. P**., Hatanaka, K., and Shimada, S. (2018). Spatiotemporal Analysis of small scale greenhouse microclimate based on smart agriculture system. *AGROFOR International Journal DOI:10.7251/AGRENG1803056P*
 
-5. Lilian Mkonyi, **Rubanga, D. P**., Lilian Mkonyi,(2020), A Early identification of Tuta absoluta in tomato plants using deep learning. *Scientific African*.
+5. Lilian Mkonyi, **Rubanga, D. P**., Mgaya Richard,Never Zekeya, Shimada Sawahiko, Baraka Maiseli, Dina Machuve.(2020), A Early identification of Tuta absoluta in tomato plants using deep learning. *Scientific African*.
 
 6. Ramadhona Saville, Katsumori Hatanaka, **Rubanga, D. P**.(2020),A study on factors affecting high quality fruit tomato production in green house by utilizing low cost smart agriculture framework. *IJoCED*.
 
