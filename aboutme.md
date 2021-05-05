@@ -9,6 +9,8 @@ I'm an Applied Data scientist with expertise in machine learning and deep learni
 I have worked with a wide range of data-driven projects in collaborative teams locally and internationally during my career. 
 Because I stopped playing rugby, you'll find me enjoying running, ping me we do a virtual marathon. 
 
+<a href="Rubanga_Denis_Pastory_cv.pdf" download>Download CV</a>
+
 
 <!--- <div style="clear: both;">
   <div style="float: left; margin-right 1em;">
