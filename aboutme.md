@@ -10,7 +10,7 @@ I have worked with a wide range of data-driven projects in collaborative teams l
 Because I stopped playing rugby, you'll find me enjoying running, ping me we do a virtual marathon. 
  
 ---
-<a href="https://denisdpr.github.io/Rubanga_Denis_Pastory_cv.pdf" download>Download CV</a>
+<a href="https://denisdpr.github.io/long_resume.pdf" download>Download CV</a>
 
 
 <!--- <div style="clear: both;">
