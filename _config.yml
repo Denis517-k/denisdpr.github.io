@@ -23,7 +23,7 @@ navbar-links:
   PUBLICATIONS: "publications"
   # -- VIDEO: --#
   Resources:
-    - ArXIV-CS Visualization: "https://kiaraaidemo.shinyapps.io/kiaraDemoCloud/"
+    - ArXIV-CS Visualization: "https://denisvisual.shinyapps.io/kiaraDemoCloud/"
     - Tech Transfer(Video): "https://www.youtube.com/watch?v=10oGkaiOSvg"
     - ICLR/AfNLP(Video): "https://slideslive.com/38926608/a-computer-vision-tomato-pest-assessment-and-prediction-tool?ref=account-53024-history"
     - Tuta Dataset: "https://zenodo.org/record/4305416#.YI_w_H0zb0s"
