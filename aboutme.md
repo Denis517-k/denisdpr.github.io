@@ -5,9 +5,15 @@ title: About me
 ---
 
 <div><img src="https://denisdpr.github.io/assets/img/denis_hp.jpg" width="45%"/></div>
-I'm an Applied Data scientist with expertise in machine learning and deep learning. I completed my Ph.D. in Agricultural Engineering at Tokyo University of Agriculture, focusing on integrating ICT and AI to enhance tomato production in low-resourced communities targeting Sub-Sahara Africa and Japan. Before that, I did my BSc International Agricultural and Food Studies and MSc Agribusiness Management, majoring in Information Management at Tokyo University of Agriculture. I am passionate about seeing a change in struggling communities using agro-informatics, deep learning, applied data science, GIS, and remote sensing techniques and tools. 
+
+<div style="text-align:center"><span style="color:black; font-family:Georgia; font-size:2em;">
+ I'm an Applied Data scientist with expertise in machine learning and deep learning. I completed my Ph.D. in Agricultural Engineering at Tokyo University of Agriculture, focusing on integrating ICT and AI to enhance tomato production in low-resourced communities targeting Sub-Sahara Africa and Japan. Before that, I did my BSc International Agricultural and Food Studies and MSc Agribusiness Management, majoring in Information Management at Tokyo University of Agriculture. I am passionate about seeing a change in struggling communities using agro-informatics, deep learning, applied data science, GIS, and remote sensing techniques and tools. 
 I have worked with a wide range of data-driven projects in collaborative teams locally and internationally during my career. 
 Because I stopped playing rugby, you'll find me enjoying running, ping me we do a virtual marathon. 
+ 
+ </span></div>
+
+
  
 ---
 <a href="https://denisdpr.github.io/DenisPastory_Resume.pdf" download>Download CV</a>
