@@ -16,7 +16,7 @@ Because I stopped playing rugby, you'll find me enjoying running, ping me we do 
 
  
 ---
-<a href="https://denisdpr.github.io/DenisPastory_Resume.pdf" download>Download CV</a>
+<a href="https://denisdpr.github.io/Denis_Pastory_CV.pdf" download>Download CV</a>
 
 
 <!--- <div style="clear: both;">
