@@ -7,9 +7,12 @@ title: About me
 <div><img src="https://denisdpr.github.io/assets/img/denis_hp.jpg" width="45%"/></div>
 
 <div style="text-align:left"><span style="color:black; font-family:Georgia;">
- I'm an Applied Data scientist with expertise in machine learning and deep learning. I completed my Ph.D. in Agricultural Engineering at Tokyo University of Agriculture, focusing on integrating ICT and AI to enhance tomato production in low-resourced communities targeting Sub-Sahara Africa and Japan. Before that, I did my BSc International Agricultural and Food Studies and MSc Agribusiness Management, majoring in Information Management at Tokyo University of Agriculture. I am passionate about seeing a change in struggling communities using agro-informatics, deep learning, applied data science, GIS, and remote sensing techniques and tools. 
+ <!---I'm an Applied Data scientist with expertise in machine learning and deep learning. I completed my Ph.D. in Agricultural Engineering at Tokyo University of Agriculture, focusing on integrating ICT and AI to enhance tomato production in low-resourced communities targeting Sub-Sahara Africa and Japan. Before that, I did my BSc International Agricultural and Food Studies and MSc Agribusiness Management, majoring in Information Management at Tokyo University of Agriculture. I am passionate about seeing a change in struggling communities using agro-informatics, deep learning, applied data science, GIS, and remote sensing techniques and tools. 
 I have worked with a wide range of data-driven projects in collaborative teams locally and internationally during my career. 
-Because I stopped playing rugby, you'll find me enjoying running, ping me we do a virtual marathon. 
+Because I stopped playing rugby, you'll find me enjoying running, ping me we do a virtual marathon. --->
+ 
+Denis is described as an applied data scientist/machine learning engineer from a multidisciplinary technical background demonstrated in developing, designing, managing, and leading data-driven teams and projects to meet client demands that impact thousands of people.
+He has applied his expertise in the development of data-driven and data-centric solutions at organizations. Denis has used his expertise in strategic decision makings in previous roles. He proved to be a successful project manager, principal investigator, and team leader in implementation and operation, collaborating with Software Engineers, Data Scientists, Decision-makers, and stakeholders in a multi-cultural and cross-functional environment to drive business growth. Some of the solutions have helped low-resourced people and struggling communities using emerging technology. He is a seasoned co-founder. Because he stopped playing rugby, you'll find me enjoying running, ping him for a virtual marathon. 
  
  </span></div>
 
