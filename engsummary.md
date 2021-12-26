@@ -1,5 +1,5 @@
 ## <strong>Research Summary</strong>
-<div><img src="https://denisdpr.github.io/AIInteg.jpg" width="45%"/></div>
+<div><img src="https://denisdpr.github.io/AIInteg.png" width="45%"/></div>
 
 <div style="text-align:left"><span style="color:black; font-family:Georgia;">
 This research thesis is structured into six Chapters including the general introduction
