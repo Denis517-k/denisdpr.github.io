@@ -20,7 +20,7 @@ introduction of computer vision (CV) based approach to tackle *T. absoluta*. Wit
 field experiments we carried out, we showed a high correlation of decreased marketable
 tomato due to *T.absoluta* damages. Therefore to solve this problem, a need for early
 detection was required which was the basis for Chapter 4 and 5.
- <div><img src="https://denisdpr.github.io/AIInteg.png" width="80%" length="70%"/></div>
+ <div><img src="https://denisdpr.github.io/AIInteg.png" width="70%" length="70%"/></div>
 
 
 In Chapter 4, we detailed the need for early pest detection for effective management
@@ -41,6 +41,9 @@ imafeg could be used to detect diseased leaves. Further, Tree Explainer algorith
 adopted on SHAP values showed that NDVI and GNDI were the indicators with the
 highest contribution to the trained model, and that NIR reflection information would be
 effective in detectiong tomato pestTutaabsolutadamage.
+ 
+<div><img src="https://denisdpr.github.io/multiProcess.png" width="70%" length="70%"/></div>
+
 
 In the final Chapter 6 of the work, we draw conclusions and recommendations based on
 previous Chapters that focused on the integration of ICT and artificial intelligence
