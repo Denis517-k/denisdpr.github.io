@@ -19,7 +19,7 @@ He has applied his expertise in the development of data-driven and data-centric 
 
  
 ---
-<a href="https://denisdpr.github.io/Denis Pastory _Resume.pdf" download>Download CV</a>
+<a href="https://denisdpr.github.io/Denisa_Pastory_Resume.pdf" download>Download CV</a>
 
 
 <!--- <div style="clear: both;">
