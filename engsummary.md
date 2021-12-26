@@ -1,6 +1,4 @@
 ## <strong>Research Summary</strong>
-<div><img src="https://denisdpr.github.io/AIInteg.png" width="45%"/></div>
-
 <div style="text-align:left"><span style="color:black; font-family:Georgia;">
 This research thesis is structured into six Chapters including the general introduction
 as Chapter 1 and the general conclusion as Chapter 6 to address the summary of all chapters.
@@ -22,6 +20,8 @@ introduction of computer vision (CV) based approach to tackle *T. absoluta*. Wit
 field experiments we carried out, we showed a high correlation of decreased marketable
 tomato due to *T.absoluta* damages. Therefore to solve this problem, a need for early
 detection was required which was the basis for Chapter 4 and 5.
+ <div><img src="https://denisdpr.github.io/AIInteg.png" width="90%"/></div>
+
 
 In Chapter 4, we detailed the need for early pest detection for effective management
 option at early stages of tomato production to avoid economic losses. The main goal
