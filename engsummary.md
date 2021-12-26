@@ -1,4 +1,5 @@
 ## <strong>Research Summary</strong>
+<div style="text-align:left"><span style="color:black; font-family:Georgia;">
 This research thesis is structured into six Chapters including the general introduction
 as Chapter 1 and the general conclusion as Chapter 6 to address the summary of all chapters.
 
@@ -43,5 +44,6 @@ In the final Chapter 6 of the work, we draw conclusions and recommendations base
 previous Chapters that focused on the integration of ICT and artificial intelligence
 techniques to enhance tomato production based on a data driven emerging technological
 approach.
+</span></div>
 
 
