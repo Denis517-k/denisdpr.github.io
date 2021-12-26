@@ -14,7 +14,7 @@ author: Denis Pastory Rubanga
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
+  ABOUT ME: "aboutme"
   EXPERIENCE: 
   # --- Smart Agric: "smartagric" ---#
   - Research: "work"
