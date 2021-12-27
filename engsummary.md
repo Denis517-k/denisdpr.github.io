@@ -52,4 +52,7 @@ approach.
 </span></div>
 ### <strong>Resources</strong>
 - Dataset used [FREE for PUBLIC](https://zenodo.org/record/4305416#.Yclx0WjP2M9)
+- Results in [Publications and Talks](http://www.denispastory.com/publications/)
+- A CVPR presentation - [PPT](http://www.denispastory.com/denis_pastory_posterRevised.pdf)
+
 
