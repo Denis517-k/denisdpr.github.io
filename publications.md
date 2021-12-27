@@ -6,17 +6,17 @@ title: "Publications"
 1. Taguchi Kentaro and **Rubanga, D. P**, (2020), "Sensitivity Analysis of Neural Network through Meta-Learning". In: Proceedings of the conference of *Japanese Society for Artificial Intelligence*.2020, pp. 1J4GS201–1J4GS201. [doi.org/10.11517/pjsai.JSAI2020.01J4GS201](doi.org/10.11517/pjsai.JSAI2020.01J4GS201)
 2. **Rubanga, D. P**, Loyani, K.L, (2020), A Deep Learning Approach for Determining Effects of Tuta absoluta in Tomato Plants. *ICLR- CVPR-Workshop*
 
-3. **Rubanga, D. P**., Hatanaka, K., and Shimada, S. (2019). Development of a Simplified Smart Agriculture System for Small Scale Greenhouse Farming. *Sensors and Material Journal* [doi.org/10.18494/SAM.2019.2154](doi.org/10.18494/SAM.2019.2154)
+3. **Rubanga, D. P**., Hatanaka, K., and Shimada, S. (2019). Development of a Simplified Smart Agriculture System for Small Scale Greenhouse Farming. *Sensors and Material Journal* [LINK](doi.org/10.18494/SAM.2019.2154)
 
-4. **Rubanga, D. P**., Hatanaka, K., and Shimada, S. (2018). Spatiotemporal Analysis of small scale greenhouse microclimate based on smart agriculture system. *AGROFOR International Journal DOI:10.7251/AGRENG1803056P*
+4. **Rubanga, D. P**., Hatanaka, K., and Shimada, S. (2018). Spatiotemporal Analysis of small scale greenhouse microclimate based on smart agriculture system. *AGROFOR International Journal [LINK](DOI:10.7251/AGRENG1803056P)*
 
-5. Lilian Mkonyi, **Rubanga, D. P**., Mgaya Richard,Never Zekeya, Shimada Sawahiko, Baraka Maiseli, Dina Machuve.(2020), A Early identification of Tuta absoluta in tomato plants using deep learning. *Scientific African*.
+5. Lilian Mkonyi, **Rubanga, D. P**., Mgaya Richard,Never Zekeya, Shimada Sawahiko, Baraka Maiseli, Dina Machuve.(2020), A Early identification of Tuta absoluta in tomato plants using deep learning. *Scientific African*. [LINK](https://doi.org/10.1016/j.sciaf.2020.e00590)
 
-6. Ramadhona Saville, Katsumori Hatanaka, **Rubanga, D. P**.(2020), A study on factors affecting high quality fruit tomato production in green house by utilizing low cost smart agriculture framework. *IJoCED*.
+6. Ramadhona Saville, Katsumori Hatanaka, **Rubanga, D. P**.(2020), A study on factors affecting high quality fruit tomato production in green house by utilizing low cost smart agriculture framework. *IJoCED*.[LINK](https://doi.org/10.35806/ijoced.v2i2.104)
 
-7. **Denis Pastory Rubanga**, Lilian Mkonyi, Mgaya Richard, Never Zekeya, Loyani K. Loyani, Sawahiko Shimada, & Dina Machuve. (2020). A Deep Learning Dataset for Tomato Pest Leafminer TUTA ABSOLUTA (Version V1). Presented at the ICLR 2020 Workshop on Computer Vision for Agriculture (CV4A) (ICLR), Ethiopia: Zenodo. http://doi.org/10.5281/zenodo.4305416
+7. **Denis Pastory Rubanga**, Lilian Mkonyi, Mgaya Richard, Never Zekeya, Loyani K. Loyani, Sawahiko Shimada, & Dina Machuve. (2020). A Deep Learning Dataset for Tomato Pest Leafminer TUTA ABSOLUTA (Version V1). Presented at the ICLR 2020 Workshop on Computer Vision for Agriculture (CV4A) (ICLR), Ethiopia: Zenodo. [LINK](http://doi.org/10.5281/zenodo.4305416)
 
-8. **Rubanga, D. P.**, Loyani, L. K., Richard, M., & Shimada, S. (2020). A Deep Learning Approach for Determining Effects of Tuta Absoluta in Tomato Plants. arXiv preprint arXiv:2004.04023.
+8. **Rubanga, D. P.**, Loyani, L. K., Richard, M., & Shimada, S. (2020). A Deep Learning Approach for Determining Effects of Tuta Absoluta in Tomato Plants. arXiv preprint [LINK](arXiv:2004.04023).
 
 ### Conferences and Workshops
 1. **Rubanga, D. P**, et al., (2020), Sensitivity Analysis of Neural Networks through Meta-Learning. JSAI - Japanese Society for Artificial Intelligence, Tokyo, Japan.
