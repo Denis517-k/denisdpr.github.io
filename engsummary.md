@@ -14,11 +14,11 @@ developed database for crop environment monitoring and management.
 In Chapter 3, we studied factors to enhance impactful use of computer vison based
 early detection approach to tackle tomato pest <em> Tuta absoluta (T.absoluta</em>). A
 comprehensive study of the demography and farmer information flow was done in
-the areas mostly affected by *T.absoluta*. We examined tomato farmers knowledge on
-tomato pest *T.absoluta* damage that could be used to devise recommended platform for
-introduction of computer vision (CV) based approach to tackle *T. absoluta*. With the
+the areas mostly affected by <em>T.absoluta</em>. We examined tomato farmers knowledge on
+tomato pest <em>T.absoluta</em> damage that could be used to devise recommended platform for
+introduction of computer vision (CV) based approach to tackle <em>T. absoluta</em>. With the
 field experiments we carried out, we showed a high correlation of decreased marketable
-tomato due to *T.absoluta* damages. Therefore to solve this problem, a need for early
+tomato due to <em>T.absoluta</em> damages. Therefore to solve this problem, a need for early
 detection was required which was the basis for Chapter 4 and 5.
  <div align="center"><img src="https://denisdpr.github.io/AIInteg.png" width="70%" length="70%"/></div>
 
@@ -28,9 +28,9 @@ option at early stages of tomato production to avoid economic losses. The main g
 was to develop computer vision based tomato pest early identification and quantification
 tools that could be used to strengthen phytosanitary capacity and systems for effective
 management option of *T.absoluta*. In this Chapter, the specific research’s objectives
-was: (1) to develop a *T.absoluta* early identification Convolutional Neural Network
+was: (1) to develop a <em>T.absoluta</em> early identification Convolutional Neural Network
 (CNN) model under commonly practiced agriculture practices. (2) to develop early
-detection and quantification CNN models for tomatoes infested by *T.absoluta* damage
+detection and quantification CNN models for tomatoes infested by <em>T.absoluta</em> damage
 characteristics and quantification to enhance early detection.
 
 In Chapter 5, we focused on using multispecral image analysis to investigate spectral
@@ -50,5 +50,6 @@ previous Chapters that focused on the integration of ICT and artificial intellig
 techniques to enhance tomato production based on a data driven emerging technological
 approach.
 </span></div>
-
+### <strong>Resources</strong>
+- Dataset used [FREE for PUBLIC](https://zenodo.org/record/4305416#.Yclx0WjP2M9)
 
