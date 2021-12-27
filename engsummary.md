@@ -1,6 +1,6 @@
 ## <strong>Research Summary</strong>
 <div style="text-align:center"><span style="color:black; font-family:Georgia;">
-This research thesis on **Integration of ICT and Artificial Intelligence Techniques to Enhance Tomato Production** is structured into six Chapters including the general introduction
+This research thesis on *Integration of ICT and Artificial Intelligence Techniques to Enhance Tomato Production* is structured into six Chapters including the general introduction
 as Chapter 1 and the general conclusion as Chapter 6 to address the summary of all chapters.
 
 In Chapter 2, we focused at the problem of abiotic factors (herein microclimate)
