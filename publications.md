@@ -3,10 +3,10 @@ title: "Publications"
 ---
 
 ### JOURNAL PAPERS
-1. Taguchi Kentaro and **Rubanga, D. P**, (2020), "Sensitivity Analysis of Neural Network through Meta-Learning". In: Proceedings of the conference of *Japanese Society for Artificial Intelligence*.2020, pp. 1J4GS201–1J4GS201. doi.org/10.11517/pjsai.JSAI2020.01J4GS201
+1. Taguchi Kentaro and **Rubanga, D. P**, (2020), "Sensitivity Analysis of Neural Network through Meta-Learning". In: Proceedings of the conference of *Japanese Society for Artificial Intelligence*.2020, pp. 1J4GS201–1J4GS201. [doi.org/10.11517/pjsai.JSAI2020.01J4GS201](doi.org/10.11517/pjsai.JSAI2020.01J4GS201)
 2. **Rubanga, D. P**, Loyani, K.L, (2020), A Deep Learning Approach for Determining Effects of Tuta absoluta in Tomato Plants. *ICLR- CVPR-Workshop*
 
-3. **Rubanga, D. P**., Hatanaka, K., and Shimada, S. (2019). Development of a Simplified Smart Agriculture System for Small Scale Greenhouse Farming. *Sensors and Material Journal* doi.org/10.18494/SAM.2019.2154
+3. **Rubanga, D. P**., Hatanaka, K., and Shimada, S. (2019). Development of a Simplified Smart Agriculture System for Small Scale Greenhouse Farming. *Sensors and Material Journal* [doi.org/10.18494/SAM.2019.2154](doi.org/10.18494/SAM.2019.2154)
 
 4. **Rubanga, D. P**., Hatanaka, K., and Shimada, S. (2018). Spatiotemporal Analysis of small scale greenhouse microclimate based on smart agriculture system. *AGROFOR International Journal DOI:10.7251/AGRENG1803056P*
 
