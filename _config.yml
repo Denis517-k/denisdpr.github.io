@@ -17,7 +17,9 @@ navbar-links:
   ABOUT ME: "aboutme"
   EXPERIENCE: 
   # --- Smart Agric: "smartagric" ---#
-  - Research: "work"
+  - Research: 
+    - "work"
+    - "On-going"
   RESUME: "Denis_Pastory_Resume2.pdf"
   
   PUBLICATIONS: "publications"
